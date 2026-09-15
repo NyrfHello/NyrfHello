@@ -1,7 +1,7 @@
 <h1 align="left">Howdy, I'm A Software Developer :D</h1>
 
 <h2>> About Myself :</h2>
-<img data-importer="image" align="right" height="200" src="https://i.pinimg.com/736x/53/92/96/539296b68ac22454ccd8a3f6a866ec0e.jpg"  />
+<img data-importer="image" align="right" height="180" src="https://i.pinimg.com/736x/53/92/96/539296b68ac22454ccd8a3f6a866ec0e.jpg"  />
 <ul>
   <li>👾 You may call me by Nell ^.^</li>
   <li>🌍 I'm based in Bandung, Indonesia</li>
@@ -20,14 +20,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-
-###
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nyrfhello&show_icons=true&locale=en&layout=compact" alt="nyrfhello" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nyrfhello&show_icons=true&locale=en" alt="nyrfhello" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyrfhello&" alt="nyrfhello" /></p>
 
 ###
 ---
