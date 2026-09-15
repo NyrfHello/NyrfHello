@@ -9,15 +9,15 @@
   <li>✉️ Feel free to contact me at <a href="mailto:nyrfhello@gmail.com">nyrfhello@gmail.com</a></li>
   <li>🧠 I'm currently learning Game Development and AI/ML</li>
   <li>👥 Definitely available to collaborate on any code</li>
-  <li>☕ Able to convert caffeine drinks into codes</li>
+  <li>☕ Able to convert caffeine drinks into working codes</li>
 </ul>
 
 ###
 ---
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nyrfhello/nyrfhello/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nyrfhello/nyrfhello/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman#gh-light-mode-only" alt="pacman contribution graph">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman#gh-dark-mode-only" alt="pacman contribution graph">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nyrfhello/nyrfhello/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
@@ -52,7 +52,8 @@
   <img src="https://skillicons.dev/icons?i=unity" height="50" alt="mysql logo"  />
     <img width="30" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="mysql logo"  />
-
+</div>
+  
 ---
 ###
 
