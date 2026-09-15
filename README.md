@@ -37,8 +37,19 @@ Software Engineer
 
 
 ### 
-<p align="left"> <a href="https://www.github.com/NyrfHello" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/NyrfHello" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://discord.com/users/NyrfHello" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
-Support Me
+<br clear="both">
+
+<div data-importer="music" align="left" data-importer="socials" align="right">
+  <a href="https://open.spotify.com/user/nerudesu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=nerudesu&count=3&unique=true" alt="Spotify recently played"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo"  />
+</div>
+Support Me :D
 
 <ul style="list-style-type: none; margin: 0;">
 
