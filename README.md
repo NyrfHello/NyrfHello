@@ -7,6 +7,18 @@ Software Engineer
 * 🧠  I'm currently learning Game Development
 * 👥  I'm looking to collaborate on any code
 
+###
+
+<br clear="both">
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
 <br clear="both">
 
 <picture data-importer="pacman">
@@ -39,17 +51,16 @@ Software Engineer
 ### 
 <br clear="both">
 
-<div data-importer="music" align="left" data-importer="socials" align="right">
-  <a href="https://open.spotify.com/user/nerudesu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=nerudesu&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
+
+<br clear="both">
+
+<div data-importer="socials" align="right">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo"  />
 </div>
-Support Me :D
 
 <ul style="list-style-type: none; margin: 0;">
 
