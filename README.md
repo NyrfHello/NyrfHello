@@ -1,14 +1,16 @@
-Howdy, I'm a Software Engineer :D
------------------
-<img data-importer="image" align="right" height="200" src="https://i.pinimg.com/736x/53/92/96/539296b68ac22454ccd8a3f6a866ec0e.jpg"  />
+<h1 align="left">Howdy, I'm A Software Developer :D</h1>
 
-* 👾 You may call me by Nell ^.^
-* 🌍  I'm based in Bandung, Indonesia
-* 🖥️  Check out my portofolio:  [www.nelyrf.com](http://www.nelyrf.com)
-* ✉️  Feel free to contact me at [nyrfhello@gmail.com](mailto:nyrfhello@gmail.com)
-* 🧠  I'm currently learning Game Development And AI/ML
-* 👥  Definitely available to collaborate on any code
-* ☕ Able to convert caffeine drinks into codes
+<h2>> About Myself :</h2>
+<img data-importer="image" align="right" height="200" src="https://i.pinimg.com/736x/53/92/96/539296b68ac22454ccd8a3f6a866ec0e.jpg"  />
+<ul>
+  <li>👾 You may call me by Nell ^.^</li>
+  <li>🌍 I'm based in Bandung, Indonesia</li>
+  <li>🖥️ Check out my portfolio: <a href="http://www.nelyrf.com">www.nelyrf.com</a></li>
+  <li>✉️ Feel free to contact me at <a href="mailto:nyrfhello@gmail.com">nyrfhello@gmail.com</a></li>
+  <li>🧠 I'm currently learning Game Development and AI/ML</li>
+  <li>👥 Definitely available to collaborate on any code</li>
+  <li>☕ Able to convert caffeine drinks into codes</li>
+</ul>
 
 ###
 ---
@@ -20,8 +22,16 @@ Howdy, I'm a Software Engineer :D
 </picture>
 
 ###
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nyrfhello&show_icons=true&locale=en&layout=compact" alt="nyrfhello" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nyrfhello&show_icons=true&locale=en" alt="nyrfhello" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyrfhello&" alt="nyrfhello" /></p>
+
+###
 ---
-<h3 align="center">> Languages <</h3>
+<h2 align="center">> Languages <</h2>
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
   <img width="30" />
@@ -42,7 +52,7 @@ Howdy, I'm a Software Engineer :D
   <img src="https://skillicons.dev/icons?i=markdown" height="50" alt="mysql logo"  />
 </div>
 
-<h5 align="center">> Tools <</h3>
+<h3 align="center">> Tools <</h3>
 <div data-importer="techs" align="center">
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="mysql logo"  />
@@ -63,7 +73,7 @@ Howdy, I'm a Software Engineer :D
 
 ###
 ---
-<h4 align="left">A coffee a day keep the insanity away ~_~</h4>
+<h4 align="left">A coffee a day keeps the insanity away ~_~</h4>
 <p><a href="https://ko-fi.com/NyrfHello"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="170" alt="NyrfHello" /></a></p><br><br>
 
 ---
