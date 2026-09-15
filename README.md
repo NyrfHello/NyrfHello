@@ -1,15 +1,17 @@
-Software Engineer
+Howdy, I'm a Software Engineer :D
 -----------------
+<img data-importer="image" align="right" height="200" src="https://i.pinimg.com/736x/53/92/96/539296b68ac22454ccd8a3f6a866ec0e.jpg"  />
 
+* 👾 You may call me by Nell ^.^
 * 🌍  I'm based in Bandung, Indonesia
-* 🖥️  See my portfolio at [www.nelyrf.com](http://www.nelyrf.com)
-* ✉️  You can contact me at [nyrfhello@gmail.com](mailto:nyrfhello@gmail.com)
-* 🧠  I'm currently learning Game Development
-* 👥  I'm looking to collaborate on any code
+* 🖥️  Check out my portofolio:  [www.nelyrf.com](http://www.nelyrf.com)
+* ✉️  Feel free to contact me at [nyrfhello@gmail.com](mailto:nyrfhello@gmail.com)
+* 🧠  I'm currently learning Game Development And AI/ML
+* 👥  Definitely available to collaborate on any code
+* ☕ Able to convert caffeine drinks into codes
 
 ###
-
-<br clear="both">
+---
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
@@ -18,17 +20,8 @@ Software Engineer
 </picture>
 
 ###
-
-<br clear="both">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
+---
+<h3 align="center">> Languages <</h3>
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
   <img width="30" />
@@ -45,25 +38,32 @@ Software Engineer
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+<img width="30" />
+  <img src="https://skillicons.dev/icons?i=markdown" height="50" alt="mysql logo"  />
 </div>
 
+<h5 align="center">> Tools <</h3>
+<div data-importer="techs" align="center">
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="mysql logo"  />
+    <img width="30" />
+  <img src="https://skillicons.dev/icons?i=unity" height="50" alt="mysql logo"  />
+    <img width="30" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="mysql logo"  />
 
-### 
-<br clear="both">
+---
+###
 
-
-<br clear="both">
-
-<div data-importer="socials" align="right">
+<h3 align="left">Get to know me better ^_~ </h3>
+<div data-importer="socials" align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo"  />
 </div>
 
-<ul style="list-style-type: none; margin: 0;">
+###
+---
+<h4 align="left">A coffee a day keep the insanity away ~_~</h4>
+<p><a href="https://ko-fi.com/NyrfHello"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="170" alt="NyrfHello" /></a></p><br><br>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/nyrfhello"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
+---
