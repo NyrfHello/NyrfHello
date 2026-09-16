@@ -36,12 +36,12 @@
 
 <h3 align="center">> Tools <</h3>
 <div data-importer="techs" align="center">
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="mysql logo"  />
     <img width="30" />
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="mysql logo"  />
+    <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="mysql logo"  />
     <img width="30" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="mysql logo"  />
+    <img src="https://skillicons.dev/icons?i=unity" height="40" alt="mysql logo"  />
+    <img width="30" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="mysql logo"  />
 </div>
 
 ---
