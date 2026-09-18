@@ -9,7 +9,7 @@
   <li>🧠 I'm currently learning Game Development and AI/ML</li>
   <li>👥 Definitely available to collaborate on any code</li>
   <li>☕ Able to convert caffeine drinks into codes</li>
-  <li>🍭 Also a very big fan of anything that're sweet (facts) </li>
+  <li>🍭 Also a very big fan of anything that're sweet</li>
 </ul>
 
 ###
@@ -31,18 +31,20 @@
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-<img width="30" />
-  <img src="https://skillicons.dev/icons?i=markdown" height="50" alt="mysql logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=markdown" height="50" alt="markdown logo"  />
 </div>
 
 <h3 align="center">> Tools <</h3>
 <div data-importer="techs" align="center">
     <img width="30" />
-    <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="mysql logo"  />
+    <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
     <img width="30" />
-    <img src="https://skillicons.dev/icons?i=unity" height="40" alt="mysql logo"  />
+    <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
     <img width="30" />
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="mysql logo"  />
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+    <img width="30" />
+    <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="gcp logo"  />
 </div>
 
 ---
