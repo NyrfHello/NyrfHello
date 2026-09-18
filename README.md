@@ -3,12 +3,13 @@
 <img data-importer="image" align="right" height="180" src="https://i.pinimg.com/736x/53/92/96/539296b68ac22454ccd8a3f6a866ec0e.jpg"  />
 <ul>
   <li>👾 You may call me by Nell ^.^</li>
-  <li>🌍 I'm based in Bandung, Indonesia</li>
-  <li>🖥️ Check out my portfolio: <a href="http://www.nelyrf.com">www.nelyrf.com</a></li>
+  <li>🌍 I'm based in Somewhere, Indonesia</li>
+  <!-- <li>🖥️ Check out my portfolio: <a href="http://www.nelyrf.com">www.nelyrf.com (currently on maintenance)</a></li> -->
   <li>✉️ Feel free to contact me at <a href="mailto:nyrfhello@gmail.com">nyrfhello@gmail.com</a></li>
   <li>🧠 I'm currently learning Game Development and AI/ML</li>
   <li>👥 Definitely available to collaborate on any code</li>
   <li>☕ Able to convert caffeine drinks into codes</li>
+  <li>🍭 Also a very big fan of anything that're sweet (facts) </li>
 </ul>
 
 ###
