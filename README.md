@@ -4,7 +4,7 @@
 <ul>
   <li>👾 You may call me by Nell ^.^</li>
   <li>🌍 I'm based in Somewhere, Indonesia</li>
-  <!-- <li>🖥️ Check out my portfolio: <a href="http://www.nelyrf.com">www.nelyrf.com (currently on maintenance)</a></li> -->
+  <!-- <li>🖥️ Check out my portfolio: <a href="http://www.nelyrf.com">www.nelyrf.com (currently on maintenance)</a></li> --> 
   <li>🖥️ Portfolio currently being reworked solemnly by myself</a></li>
   <li>✉️ Feel free to contact me at <a href="mailto:nyrfhello@gmail.com">nyrfhello@gmail.com</a></li>
   <li>🧠 I'm currently learning Game Development and AI/ML</li>
