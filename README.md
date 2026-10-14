@@ -7,7 +7,7 @@
   <!-- <li>🖥️ Check out my portfolio: <a href="http://www.nelyrf.com">www.nelyrf.com (currently on maintenance)</a></li> --> 
   <li>🖥️ Portfolio currently being reworked solemnly by myself</a></li>
   <li>✉️ Feel free to contact me at <a href="mailto:nyrfhello@gmail.com">nyrfhello@gmail.com</a></li>
-  <li>🧠 I'm currently learning Game Development and AI/ML</li>
+  <li>🧠 I'm currently learning Rust Programming Language</li>
   <li>👥 Definitely available to collaborate on any code</li>
   <li>☕ Able to convert caffeine drinks into codes</li>
 </ul>
@@ -33,6 +33,8 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=markdown" height="50" alt="markdown logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=rust" height="50" alt="rust logo"  />
 </div>
 
 <h2 align="center">> Tools <</h2>
