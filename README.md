@@ -32,8 +32,8 @@
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img width="30" />
-  <img src="https://skillicons.dev/icons?i=markdown" height="50" alt="markdown logo"  />
-  <!-- <img width="30" />
+  <!-- <img src="https://skillicons.dev/icons?i=markdown" height="50" alt="markdown logo"  />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=rust" height="50" alt="rust logo"  /> -->
 </div>
 
