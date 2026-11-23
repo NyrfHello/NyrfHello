@@ -1,25 +1,21 @@
 <h1 align="left">Howdy, I'm A Software Developer :D</h1>
-<h2>> About Myself :</h2>
+<h2>(^.^) About Myself :</h2>
 <img data-importer="image" align="right" height="180" src="https://i.pinimg.com/736x/53/92/96/539296b68ac22454ccd8a3f6a866ec0e.jpg"  />
 <ul>
-  <li>👾 You may call me by Nell ^.^</li>
-  <li>🌍 I'm based in Somewhere, Indonesia</li>
-  <!-- <li>🖥️ Check out my portfolio: <a href="http://www.nelyrf.com">www.nelyrf.com (currently on maintenance)</a></li> --> 
-  <li>🖥️ Portfolio currently being reworked solemnly by myself</a></li>
-  <li>✉️ Feel free to contact me at <a href="mailto:nyrfhello@gmail.com">nyrfhello@gmail.com</a></li>
-  <li>🧠 I'm currently learning Rust Programming Language</li>
-  <li>👥 Definitely available to collaborate on any code</li>
-  <li>☕ Able to convert caffeine drinks into codes</li>
+  <li> You may call me by Nell (✦‿✦)</li>
+  <li> I'm based in Somewhere, Indonesia</li>
+  <!-- <li> Check out my portfolio: <a href="http://www.nelyrf.com">www.nelyrf.com (currently on maintenance)</a></li> --> 
+  <li> Portfolio currently being reworked solemnly by myself</a></li>
+  <li> Feel free to contact me at <a href="mailto:nyrfhello@gmail.com">nyrfhello@gmail.com</a></li>
+  <li> I'm currently learning Rust Programming Language</li>
+  <li> Definitely available to collaborate on any code</li>
+  <li> Able to convert caffeine drinks into codes</li>
 </ul>
 
 ###
 ---
 <h2 align="center">> Languages <</h2>
 <div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
-  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
@@ -28,23 +24,31 @@
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
   <img width="30" />
+  <img src="https://skillicons.dev/icons?i=rust" height="50" alt="rust logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="30" />
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-  <img width="30" />
-  <!-- <img src="https://skillicons.dev/icons?i=markdown" height="50" alt="markdown logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=rust" height="50" alt="rust logo"  /> -->
 </div>
 
 <h2 align="center">> Tools <</h2>
 <div data-importer="techs" align="center">
   <img width="24" />
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
   <img width="24" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <!-- <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="24" /> -->
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="24" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo"  />
+  <img width="24" />
+  <!-- <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="24" />
   <!-- <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="gcp logo"  /> -->
 </div>
