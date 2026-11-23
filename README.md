@@ -1,4 +1,4 @@
-<h1 align="left">Howdy, I'm A Software Developer :D</h1>
+<h1 align="left">Howdy, Would You Mind For A Break? :D</h1>
 <h2>(^.^) About Myself :</h2>
 <img data-importer="image" align="right" height="180" src="https://i.pinimg.com/736x/53/92/96/539296b68ac22454ccd8a3f6a866ec0e.jpg"  />
 <ul>
@@ -52,6 +52,14 @@
   <img width="24" />
   <!-- <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="gcp logo"  /> -->
 </div>
+  
+---
+###
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ---
 ###
