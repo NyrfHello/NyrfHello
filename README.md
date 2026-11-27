@@ -27,7 +27,7 @@
   <img width="30" />
 <!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
   <img width="30" /> -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="py logo"  />
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
   <img width="30" />
