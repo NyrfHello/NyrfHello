@@ -16,19 +16,17 @@
 ---
 <h2 align="center">> Languages <</h2>
 <div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
-  <img width="30" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=go" height="50" alt="golang logo"  />
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=rust" height="50" alt="rust logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
   <img width="30" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
   <img width="30" />
